@@ -62,7 +62,7 @@ Simply visit: `https://yourusername.github.io/upVolume/`
 ### Option 2: Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/upVolume.git
+git clone https://github.com/Mahir-g9/upVolume.git
 
 # Navigate to the project folder
 cd upVolume
