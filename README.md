@@ -1,5 +1,7 @@
 # 🔊 upVolume - Web Audio Volume Enhancer
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=435&lines=upVolume+%E2%80%93+Audio+Volume+Booster;Boost+audio+up+to+400%25;Web+Audio+API+Powered" alt="Typing SVG" />
+</p>
 **Boost your audio volume by up to 400% with real-time EQ controls and frequency visualization - directly in your browser!**
 
 ![Audio Enhancement](https://img.shields.io/badge/Audio-Enhancement-blue)
