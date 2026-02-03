@@ -57,7 +57,7 @@
 ## 📦 Installation & Usage
 
 ### Option 1: Use Online (Recommended)
-Simply visit: `https://yourusername.github.io/upVolume/`
+Simply visit: `https://Mahir-g9.github.io/upVolume/`
 
 ### Option 2: Run Locally
 ```bash
