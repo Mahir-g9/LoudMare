@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Live Demo
-**👉 [Try upVolume Now](https://yourusername.github.io/upVolume/)**
+**👉 [Try upVolume Now](https://mahir-g9.github.io/upVoulume/)**
 
 *No installation required - works in Chrome, Firefox, Edge, and Safari*
 
