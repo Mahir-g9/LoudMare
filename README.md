@@ -9,6 +9,10 @@
 ![Browser Tool](https://img.shields.io/badge/Browser_Tool-✓-orange)
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,25:ffa500,50:ffff00,75:00ff00,100:0000ff&height=4&section=header&reversal=false&animation=gradient" />
+</p>
+---
 
 ## 🚀 Live Demo
 **👉 [Try upVolume Now](https://mahir-g9.github.io/upVoulume/)**
